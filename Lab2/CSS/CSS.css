@@ -1,0 +1,82 @@
+body {
+	width: 80%;
+	margin-left: 100pt;
+}
+#thongtin {
+	display: flex;
+	background-color:lightgray;
+	text-align:center;
+}
+button{
+	text-align:center;
+	color:white;
+	padding-left:12px;
+	padding-right:12px;
+	margin-left: 2px;
+	border-radius:7px;
+}
+.dstk li {
+	margin-top: -15px;
+	border-left: 1px solid gray;
+	list-style-type: none;
+	display: inline-flex;
+	padding: 5px;
+	font-weight: bold;
+}
+#timkiem img{
+	width:30px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+#login {
+	font-size:17px;
+	margin-left: 250px;
+}
+#lienlac {
+	font-size:17px;
+	display: flex;
+	margin-left: 5px;
+}
+#timkiem {
+	margin-top: -17px;
+	font-size: 15px;
+	padding-left: 10px;
+	background-color: lightgray;
+}
+.khungdau {
+	width: 417px;
+	height: 100pt;
+	display: inline-flex;
+}
+.trum{
+	width: 600px;
+	height: 350px;
+}
+.khung2{
+	width: 400px;
+	display: block;
+}
+h3 {
+	margin-top: -12px;
+	color: darkred;
+	border-left: 3px solid red;
+	font-size: larger;
+}
+.phansau {
+	margin-top: -15px;
+	display: inline-flex;
+	width: 100%;
+}
+.trum h2 {
+	color: darkred;
+}
+.tintuc p {
+	color: gray;
+	border-bottom: 1px ridge #c4c4c4;
+	font-size:large;
+}
+.tintuc{
+	
+}
